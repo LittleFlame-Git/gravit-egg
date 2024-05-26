@@ -1,5 +1,5 @@
 # Gravit Launcher egg
-Кастомное яйцо для Gravit лаунчера. Использует официальный yolk Pterodactyl Java 17 и [OpenJFX](https://openjfx.io/) jmods для JavaFX
+Кастомное яйцо для Gravit лаунчера. Использует официальный yolk Pterodactyl Java 21 и [OpenJFX](https://openjfx.io/) jmods для JavaFX
 
 Лаунчер скачивается с официальных репозиториев без билда на сервере
 
