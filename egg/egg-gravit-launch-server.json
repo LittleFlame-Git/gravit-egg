@@ -6,12 +6,11 @@
     },
     "exported_at": "2022-08-04T14:04:29+03:00",
     "name": "Gravit LaunchServer",
-    "author": "support@meproject.ru",
-    "description": "Gravit LaunchServer egg.",
+    "author": "mayooffk@ft256.ru",
+    "description": "Gravit LaunchServer egg",
     "features": null,
     "docker_images": {
-        "Latest ": "ghcr.io\/meprojectstudio\/gravit-egg:latest",
-        "Edge ": "ghcr.io\/meprojectstudio\/gravit-egg:edge"
+        "Latest ": "ghcr.io\/FT256\/gravit-egg:latest"
     },
     "file_denylist": [],
     "startup": "java -Xms128M -Xmx{{SERVER_MEMORY}}M -Dterminal.jline=false -Dterminal.ansi=true -javaagent:LaunchServer.jar -jar LaunchServer.jar",
